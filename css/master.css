@@ -142,7 +142,7 @@ input[type="text"]:focus, input[type="password"]:focus, textarea:focus {
     margin-top: -45px;
 }
 .grid-16-8 .article .switch-to-shuo a {
-    background: url("http://img3.douban.com/f/book/6822457a2fc71115d0774dfaf5c9d245577d5992/pics/switch_to_shuo.png") no-repeat scroll left top rgba(0, 0, 0, 0);
+    background: url("../images/switch_to_shuo.png") no-repeat scroll left top rgba(0, 0, 0, 0);
     display: block;
     height: 38px;
     width: 134px;
@@ -383,7 +383,7 @@ h2 {
     border-bottom: 1px solid #A8A8A8;
 }
 #header {
-    background: url("http://img3.douban.com/f/book/007a753500d3779e629c87f4d13b3103451f6dfd/pics/headnavbot.gif") no-repeat scroll left 33px rgba(0, 0, 0, 0);
+    background: url("../images/headnavbot.gif") no-repeat scroll left 33px rgba(0, 0, 0, 0);
     margin: 7px 0;
 }
 #header img.logo {
@@ -418,7 +418,7 @@ h2 {
     text-decoration: underline;
 }
 #nav a.now {
-    background: url("http://img3.douban.com/f/book/e02eb97fd22309868c6cea1f9914151685377942/pics/headnavback.gif") no-repeat scroll right top #EEF9EB;
+    background: url("../images/headnavback.gif") no-repeat scroll right top #EEF9EB;
     color: #000000;
     display: block;
     float: left;
@@ -427,7 +427,7 @@ h2 {
     padding: 0 10px 0 0;
 }
 #nav a.now span {
-    background: url("http://img3.douban.com/f/book/e02eb97fd22309868c6cea1f9914151685377942/pics/headnavback.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/headnavback.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     padding: 8px 1px 7px 11px;
 }
@@ -464,7 +464,7 @@ h2 {
     position: relative;
 }
 #searbar span.submit {
-    background: url("http://img3.douban.com/f/book/e6efbcb5e43ed4924f68589bc1d72849b410f55e/pics/search.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/search.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 20px;
     padding: 2px 7px 0 0;
     text-align: right;
@@ -517,7 +517,7 @@ h2 {
     vertical-align: top;
 }
 #status {
-    background: url("http://img3.douban.com/f/book/007a753500d3779e629c87f4d13b3103451f6dfd/pics/headnavbot.gif") no-repeat scroll left bottom #EEF9EB;
+    background: url("../images/headnavbot.gif") no-repeat scroll left bottom #EEF9EB;
     padding: 5px 10px 4px;
     text-align: right;
 }
@@ -557,7 +557,7 @@ h2 {
     text-align: right;
 }
 a.graybutt {
-    background: url("http://img3.douban.com/f/book/b3cf1cc4be8314e372bf1340e487cb218908cbe2/pics/graybutt.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/graybutt.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     color: #666666;
     cursor: pointer;
     display: block;
@@ -577,7 +577,7 @@ a.graybutt input {
     padding: 0;
 }
 a.graybutt span {
-    background: url("http://img3.douban.com/f/book/b3cf1cc4be8314e372bf1340e487cb218908cbe2/pics/graybutt.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/graybutt.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     line-height: 18px;
     padding: 4px 1px 3px 8px;
@@ -587,7 +587,7 @@ a.graybutt:visited {
     text-decoration: none;
 }
 a.graybutt:hover {
-    background: url("http://img3.douban.com/f/book/b3cf1cc4be8314e372bf1340e487cb218908cbe2/pics/graybutt.gif") no-repeat scroll right -24px rgba(0, 0, 0, 0);
+    background: url("../images/graybutt.gif") no-repeat scroll right -24px rgba(0, 0, 0, 0);
     color: #FFFFFF;
 }
 a.graybutt:hover span, a.graybutt:hover input {
@@ -595,7 +595,7 @@ a.graybutt:hover span, a.graybutt:hover input {
     color: #FFFFFF;
 }
 a.redbutt {
-    background: url("http://img3.douban.com/f/book/29afd5838a10209ae1972fb7ab08da6864f38d15/pics/redbutt.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/redbutt.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     color: #FF7676;
     cursor: pointer;
     display: inline-block;
@@ -607,7 +607,7 @@ a.redbutt {
     text-decoration: none;
 }
 a.redbutt span {
-    background: url("http://img3.douban.com/f/book/29afd5838a10209ae1972fb7ab08da6864f38d15/pics/redbutt.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/redbutt.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #FF7676;
     display: block;
     line-height: 18px;
@@ -626,7 +626,7 @@ a.redbutt:visited {
     text-decoration: none;
 }
 a.redbutt:hover {
-    background: url("http://img3.douban.com/f/book/29afd5838a10209ae1972fb7ab08da6864f38d15/pics/redbutt.gif") no-repeat scroll right -24px rgba(0, 0, 0, 0);
+    background: url("../images/redbutt.gif") no-repeat scroll right -24px rgba(0, 0, 0, 0);
     color: #FFFFFF;
 }
 a.redbutt:hover span, a.redbutt:hover input {
@@ -634,7 +634,7 @@ a.redbutt:hover span, a.redbutt:hover input {
     color: #FFFFFF;
 }
 a.colbutt {
-    background: url("http://img3.douban.com/f/book/18e38327efbf8ae659e972e34ece128a73f469f3/pics/collect_back2.png") no-repeat scroll right top rgba(0, 0, 0, 0) !important;
+    background: url("../images/collect_back2.png") no-repeat scroll right top rgba(0, 0, 0, 0) !important;
     color: #000000;
     display: block;
     font: 12px sans-serif;
@@ -649,7 +649,7 @@ a.colbutt:hover {
     color: #000000;
 }
 a.colbutt span {
-    background: url("http://img3.douban.com/f/book/18e38327efbf8ae659e972e34ece128a73f469f3/pics/collect_back2.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/collect_back2.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     line-height: 22px;
     padding: 1px 1px 3px 11px;
@@ -697,7 +697,7 @@ textarea {
     padding: 3px;
 }
 #vote_btn input.vote_btn {
-    background: url("http://img3.douban.com/f/book/51c6e1c1fa6f9c2e887881d4e38e1cc15fea9ce7/pics/icon/vote_48_18px.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/vote_48_18px.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     border: 0 none;
     cursor: pointer;
     height: 18px;
@@ -705,7 +705,7 @@ textarea {
     width: 48px;
 }
 #vote_btn_small input.vote_btn {
-    background: url("http://img3.douban.com/f/book/77610f59391376ab9b94d4aa156e7ad9642a1e23/pics/icon/vote_30_15px.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/vote_30_15px.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     border: 0 none;
     cursor: pointer;
     height: 15px;
@@ -762,14 +762,14 @@ textarea {
     width: 85px;
 }
 .xbar {
-    background: url("http://img3.douban.com/f/book/8ddf79d5c3cc04548e58009788aa96dac5ba0982/pics/zbar.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/zbar.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     float: right;
     margin-bottom: 21px;
     overflow: hidden;
     width: 100%;
 }
 .xbar div {
-    background: url("http://img3.douban.com/f/book/8ddf79d5c3cc04548e58009788aa96dac5ba0982/pics/zbar.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/zbar.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     float: right;
     margin-left: 5px;
     padding-right: 35px;
@@ -786,23 +786,23 @@ textarea {
     color: #FFFFFF;
 }
 .xbar span.now {
-    background: url("http://img3.douban.com/f/book/79729f7ed4018d6c7545c866789c658aa85314c5/pics/wztab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/wztab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     display: block;
     float: right;
     margin: 0 5px;
     padding: 0 10px 0 0;
 }
 .xbar span.now span {
-    background: url("http://img3.douban.com/f/book/79729f7ed4018d6c7545c866789c658aa85314c5/pics/wztab.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/wztab.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     padding: 6px 1px 5px 11px;
 }
 .zbar {
-    background: url("http://img3.douban.com/f/book/8ddf79d5c3cc04548e58009788aa96dac5ba0982/pics/zbar.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/zbar.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     margin-bottom: 21px;
 }
 .zbar div {
-    background: url("http://img3.douban.com/f/book/8ddf79d5c3cc04548e58009788aa96dac5ba0982/pics/zbar.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/zbar.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     float: left;
     margin-left: 5px;
     padding-left: 2px;
@@ -819,14 +819,14 @@ textarea {
     color: #FFFFFF;
 }
 .zbar span.now {
-    background: url("http://img3.douban.com/f/book/79729f7ed4018d6c7545c866789c658aa85314c5/pics/wztab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/wztab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     display: block;
     float: left;
     margin: 0 5px;
     padding: 0 10px 0 0;
 }
 .zbar span.now span {
-    background: url("http://img3.douban.com/f/book/79729f7ed4018d6c7545c866789c658aa85314c5/pics/wztab.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/wztab.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     padding: 6px 1px 5px 11px;
 }
@@ -855,21 +855,21 @@ textarea {
     margin: 0;
 }
 .tablelt {
-    background: url("http://img3.douban.com/f/book/b643020218d4176d6b9ecc30d1eba30418ded183/pics/ibox.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/ibox.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 3px;
     width: 3px;
 }
 .tablect {
-    background: url("http://img3.douban.com/f/book/6e017106b8fca7e6123a102c77ef8846dc7a5d39/pics/tablev.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/tablev.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 3px;
 }
 .tablert {
-    background: url("http://img3.douban.com/f/book/b643020218d4176d6b9ecc30d1eba30418ded183/pics/ibox.gif") repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/ibox.gif") repeat scroll right top rgba(0, 0, 0, 0);
     height: 3px;
     width: 3px;
 }
 .tablelc {
-    background: url("http://img3.douban.com/f/book/b554b424a2f07aa9c0e1d77457ecc0bf1c255629/pics/tableh.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/tableh.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
     width: 3px;
 }
 .tablecc {
@@ -878,20 +878,20 @@ textarea {
     padding: 6px;
 }
 .tablerc {
-    background: url("http://img3.douban.com/f/book/b554b424a2f07aa9c0e1d77457ecc0bf1c255629/pics/tableh.gif") repeat scroll right center rgba(0, 0, 0, 0);
+    background: url("../images/tableh.gif") repeat scroll right center rgba(0, 0, 0, 0);
     width: 3px;
 }
 .tablelb {
-    background: url("http://img3.douban.com/f/book/b643020218d4176d6b9ecc30d1eba30418ded183/pics/ibox.gif") repeat scroll 0 bottom rgba(0, 0, 0, 0);
+    background: url("../images/ibox.gif") repeat scroll 0 bottom rgba(0, 0, 0, 0);
     height: 3px;
     width: 3px;
 }
 .tablecb {
-    background: url("http://img3.douban.com/f/book/6e017106b8fca7e6123a102c77ef8846dc7a5d39/pics/tablev.gif") repeat scroll left bottom rgba(0, 0, 0, 0);
+    background: url("../images/tablev.gif") repeat scroll left bottom rgba(0, 0, 0, 0);
     height: 3px;
 }
 .tablerb {
-    background: url("http://img3.douban.com/f/book/b643020218d4176d6b9ecc30d1eba30418ded183/pics/ibox.gif") repeat scroll right bottom rgba(0, 0, 0, 0);
+    background: url("../images/ibox.gif") repeat scroll right bottom rgba(0, 0, 0, 0);
     height: 3px;
     width: 3px;
 }
@@ -964,7 +964,7 @@ pre.content {
     word-wrap: break-word;
 }
 blockquote {
-    background: url("http://img3.douban.com/f/book/070c48da6028490b9ca087a2a2eec5e6346e65d8/pics/big_quotel.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/big_quotel.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #404040;
     margin: 15px;
     padding-left: 2em;
@@ -974,7 +974,7 @@ blockquote {
     padding: 5px 24px;
 }
 .quote {
-    background: url("http://img3.douban.com/f/book/bea926c649298e9bd59b7e8897f0c34b252a57b9/pics/quotel.png") no-repeat scroll left 4px rgba(0, 0, 0, 0);
+    background: url("../images/quotel.png") no-repeat scroll left 4px rgba(0, 0, 0, 0);
     margin: 8px 0 0 26px;
     overflow: hidden;
     padding: 0 24px 5px 15px;
@@ -982,7 +982,7 @@ blockquote {
     word-wrap: break-word;
 }
 .quote span.inq {
-    background: url("http://img3.douban.com/f/book/61a8c24be622b61a59a8c3445dec15f2ce590e9b/pics/quoter.png") no-repeat scroll right bottom rgba(0, 0, 0, 0);
+    background: url("../images/quoter.png") no-repeat scroll right bottom rgba(0, 0, 0, 0);
     color: #333333;
     display: inline-block;
     padding-right: 15px;
@@ -1174,7 +1174,7 @@ ul .mbtr2 {
     padding: 4px 0;
 }
 .mbtrmini {
-    background: url("http://img3.douban.com/f/book/f401be4d392b6e745a52fa51664a5da4a38ebb59/pics/listdot.gif") no-repeat scroll 0 8px rgba(0, 0, 0, 0);
+    background: url("../images/listdot.gif") no-repeat scroll 0 8px rgba(0, 0, 0, 0);
     border-bottom: 1px dashed #DDDDDD;
     padding: 4px 0 4px 12px;
 }
@@ -1697,7 +1697,7 @@ wbr:after {
     width: 155px;
 }
 .starstop {
-    background: url("http://img3.douban.com/f/book/2326c3f5f1411a7ed98afb94e9e36b0868d9f3ae/pics/all_star.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/all_star.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     float: left;
     height: 14px;
@@ -1711,7 +1711,7 @@ wbr:after {
     width: 50px;
 }
 .stars {
-    background: url("http://img3.douban.com/f/book/f9bcf7903d12afdc5537c91c3dddd681e10cf469/pics/stars.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/stars.gif") repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     height: 14px;
     margin: 1px 0 0 7px;
@@ -1904,7 +1904,7 @@ wbr:after {
     display: block;
 }
 .actcatlst .now {
-    background: url("http://img3.douban.com/f/book/84cacc4100d94517bc93b776494c3ed5184a233e/pics/arrowright.gif") no-repeat scroll right 10px rgba(0, 0, 0, 0);
+    background: url("../images/arrowright.gif") no-repeat scroll right 10px rgba(0, 0, 0, 0);
     color: #77C5EE;
 }
 .citysmr {
@@ -2069,12 +2069,12 @@ wbr:after {
     margin: 0 10px;
 }
 .reclstwrap {
-    background: url("http://img3.douban.com/f/book/a45189e245cd59dbf354c0356681899384e8a1a2/pics/topicgrey.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/topicgrey.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     margin-top: 20px;
 }
 .reclstwrap .reclst {
-    background: url("http://img3.douban.com/f/book/a45189e245cd59dbf354c0356681899384e8a1a2/pics/topicgrey.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/topicgrey.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     color: #666666;
     display: block;
     font: 14px/150% Arial,Helvetica,sans-serif;
@@ -2156,7 +2156,7 @@ a.a_rec_btn {
     width: 46px;
 }
 a.a_rec_btn:link, a.a_rec_btn:visited, a.a_rec_btn:hover, a.a_rec_btn:active {
-    background: url("http://img3.douban.com/f/book/4d946d3daaadf1e6cadb5110ae0c4a419d259137/pics/bg_rec_btn.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/bg_rec_btn.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #4F946E;
 }
 a.a_rec_btn:hover, a.a_rec_btn:active {
@@ -2222,7 +2222,7 @@ a.lnk-sharing:hover, a.lnk-sharing:active {
     padding: 0 5px;
 }
 .video_overlay {
-    background: url("http://img3.douban.com/f/book/7225a635202dc7b623e16a8dd83e0c28e76bc0a4/pics/video_overlay.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/video_overlay.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
     cursor: pointer;
     height: 97px;
     left: 0;
@@ -2357,11 +2357,11 @@ a.lnk-sharing:hover, a.lnk-sharing:active {
     background: none repeat scroll 0 0 #FFFFFF;
 }
 .album {
-    background: url("http://img3.douban.com/f/book/283921263c43e490777b39d1a4e03bdedfc4d871/pics/albumback.gif") no-repeat scroll 1px 1px rgba(0, 0, 0, 0);
+    background: url("../images/albumback.gif") no-repeat scroll 1px 1px rgba(0, 0, 0, 0);
     padding: 4px 7px 7px 4px;
 }
 .album_s {
-    background: url("http://img3.douban.com/f/book/2845e06e4eea41dc937dc5fd8cc37fbc77046a4b/pics/albumback_s.gif") no-repeat scroll 1px 1px rgba(0, 0, 0, 0);
+    background: url("../images/albumback_s.gif") no-repeat scroll 1px 1px rgba(0, 0, 0, 0);
     padding: 5px 8px 8px 5px;
 }
 .album_photo {
@@ -2428,7 +2428,7 @@ a.lnk-sharing:hover, a.lnk-sharing:active {
     text-align: right;
 }
 #discover {
-    background: url("http://img3.douban.com/f/book/3e62d4f315ac35f9d28f535aca9945f16707e604/pics/discover.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/discover.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #AAAAAA;
     font-size: 14px;
     height: 185px;
@@ -2487,19 +2487,19 @@ a.lnk-sharing:hover, a.lnk-sharing:active {
     margin: 0 60px 0 160px;
 }
 .alignleft {
-    background: url("http://img3.douban.com/f/book/b3b1a7e1c6008e0f6cec97d810b1f17bb0fcbb17/pics/align_left.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/align_left.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     padding: 0 6px 0 25px;
 }
 .aligncenter {
-    background: url("http://img3.douban.com/f/book/184ecd1c22b129cb2b4f52eb4e449355ddbe49d1/pics/align_center.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/align_center.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     padding: 0 6px 0 25px;
 }
 .alignright {
-    background: url("http://img3.douban.com/f/book/f641815a5e5ab50fdc9155a469d10ec43db1234b/pics/align_right.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/align_right.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     padding: 0 6px 0 25px;
 }
 .feed {
-    background: url("http://img3.douban.com/f/book/4bace6d78006ece72f0e4a2b714fcfe3b54dd4e2/pics/feed1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/feed1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     font-size: 14px;
     padding: 0 0 30px 20px;
 }
@@ -2799,7 +2799,7 @@ body .note {
     padding: 10px 0 5px;
 }
 #campus_header #logo {
-    background: url("http://img3.douban.com/f/book/406e43611dc775e6d91457c30e067b2617d02238/pics/logo2010.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     float: left;
     height: 34px;
@@ -2810,7 +2810,7 @@ body .note {
     background: none repeat scroll 0 center rgba(0, 0, 0, 0);
 }
 #campus_header #year {
-    background: url("http://img3.douban.com/f/book/d3e2effd67ae4b5b9080da5b1c391cec792ea9cf/pics/campus_2010.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     float: left;
     height: 34px;
@@ -2960,11 +2960,11 @@ body .note {
     height: 23px;
 }
 .songlst .full {
-    background: url("http://img3.douban.com/f/book/b8d0a75490599fb542136854b874918446ef98c1/pics/playicon.png") no-repeat scroll 0 -31px rgba(0, 0, 0, 0);
+    background: url("../images/playicon.png") no-repeat scroll 0 -31px rgba(0, 0, 0, 0);
     color: #777777;
 }
 .songlst .selsong .full {
-    background: url("http://img3.douban.com/f/book/b8d0a75490599fb542136854b874918446ef98c1/pics/playicon.png") no-repeat scroll -20px -5px #EAF9E6;
+    background: url("../images/playicon.png") no-repeat scroll -20px -5px #EAF9E6;
     color: #777777;
 }
 .songlst .full a {
@@ -2992,35 +2992,35 @@ body .note {
     text-indent: 2em;
 }
 .artist_doumail {
-    background: url("http://img3.douban.com/f/book/8b3368b18115283f4e3ba1b22d27628ed058c2fd/pics/icon/musician_9px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
+    background: url("../images/icon/musician_9px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
     padding-left: 12px;
 }
 .artist_doumail_big {
-    background: url("http://img3.douban.com/f/book/2e25c7ae9dd45d7c79641c8e6a3ab3f80e9d1c61/pics/icon/musician_16px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
+    background: url("../images/musician_16px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
     padding: 20px;
 }
 .minisite_doumail {
-    background: url("http://img3.douban.com/f/book/be1eb118d1daeaa70aff9c6b0356c514309e9910/pics/icon/minisite_9px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
+    background: url("../images/minisite_9px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
     padding-left: 12px;
 }
 .minisite_doumail_big {
-    background: url("http://img3.douban.com/f/book/aa2739ed72327955fc19a43880e6dc421d8ed7fc/pics/icon/minisite_16px.gif") no-repeat scroll 0 18px rgba(0, 0, 0, 0);
+    background: url("../images/minisite_16px.gif") no-repeat scroll 0 18px rgba(0, 0, 0, 0);
     padding: 20px;
 }
 .site_doumail {
-    background: url("http://img3.douban.com/f/book/be1eb118d1daeaa70aff9c6b0356c514309e9910/pics/icon/site_9px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
+    background: url("../images/site_9px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
     padding-left: 12px;
 }
 .site_doumail_big {
-    background: url("http://img3.douban.com/f/book/aa2739ed72327955fc19a43880e6dc421d8ed7fc/pics/icon/site_16px.gif") no-repeat scroll 0 18px rgba(0, 0, 0, 0);
+    background: url("../images/site_16px.gif") no-repeat scroll 0 18px rgba(0, 0, 0, 0);
     padding: 20px;
 }
 .host_doumail {
-    background: url("http://img3.douban.com/f/book/0b7f6c623eb6fddb737acb9a7704b4f456f047a2/pics/icon/host_small.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
+    background: url("../images/host_small.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
     padding-left: 12px;
 }
 .host_doumail_big {
-    background: url("http://img3.douban.com/f/book/7694770948bddd9bb2f765c2d236bd58f77e7745/pics/icon/host_big.gif") no-repeat scroll 0 18px rgba(0, 0, 0, 0);
+    background: url("../images/host_big.gif") no-repeat scroll 0 18px rgba(0, 0, 0, 0);
     padding: 20px;
 }
 #minisite_bg a:hover {
@@ -3035,14 +3035,14 @@ body .note {
     width: 14px;
 }
 #songlist a.a_rec_btn:link, #songlist a.a_rec_btn:visited, #songlist a.a_rec_btn:hover, #songlist a.a_rec_btn:active {
-    background: url("http://img3.douban.com/f/book/4d946d3daaadf1e6cadb5110ae0c4a419d259137/pics/bg_rec_btn.png") no-repeat scroll 0 -48px rgba(0, 0, 0, 0);
+    background: url("../images/bg_rec_btn.png") no-repeat scroll 0 -48px rgba(0, 0, 0, 0);
 }
 .sys_doumail {
-    background: url("http://img3.douban.com/f/book/8a9f860a76383cfb31f93fb7d57b9afb212a6b10/pics/icon/system_9px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
+    background: url("../images/system_9px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
     padding-left: 12px;
 }
 .sys_doumail_big {
-    background: url("http://img3.douban.com/f/book/69cc25e1940d6a79ee1054be2a707608235eaade/pics/icon/system_16px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
+    background: url("../images/system_16px.gif") no-repeat scroll 0 center rgba(0, 0, 0, 0);
     padding: 20px;
 }
 .doumail_from {
@@ -3490,7 +3490,7 @@ a.pop_win_close:hover {
     width: 110px;
 }
 #discover {
-    background: url("http://img3.douban.com/f/book/2f0c1fc628ab79f4682c6e54e648a64ddfa952f0/pics/discover.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/discover.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #AAAAAA;
     font-size: 14px;
     height: 185px;
@@ -3582,7 +3582,7 @@ a.pop_win_close:hover {
     word-break: break-all;
 }
 .allstar50, .allstar45, .allstar40, .allstar35, .allstar30, .allstar25, .allstar20, .allstar15, .allstar10, .allstar05 {
-    background: url("http://img3.douban.com/f/book/aa0089c4528e50cfd8cc0e623223cd18487b5658/pics/allstar.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/allstar.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     font: 12px/1 tahoma;
     height: 12px;
@@ -3782,7 +3782,7 @@ fieldset.floatdiv {
     width: 18px;
 }
 .block6 .content ul li .no span {
-    background: url("http://img3.douban.com/f/book/488c1a1e8562bc1c1baf7cf33074f094a97bb983/pics/chart_top.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/chart_top.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     float: right;
     font-size: 10px;
@@ -3934,7 +3934,7 @@ fieldset.floatdiv {
     position: relative;
 }
 .block_menu .ft, .block_menu .fb {
-    background: url("http://img3.douban.com/f/book/bf482e71d8af89a210e3f67191eba0bad675106c/pics/city_block_menu.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/city_block_menu.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     font-size: 1px;
     height: 3px;
@@ -3978,26 +3978,26 @@ fieldset.floatdiv {
     padding: 2px 0;
 }
 .block_menu li#event_home a {
-    background: url("http://img3.douban.com/f/book/31575db6962f9c7994a6105636b8b2f979f90786/pics/event_home_tab.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+    background: url("../images/event_home_tab.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
     display: block;
     float: left;
     padding: 0 0 0 3px;
 }
 .block_menu li#event_home a span {
-    background: url("http://img3.douban.com/f/book/31575db6962f9c7994a6105636b8b2f979f90786/pics/event_home_tab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/event_home_tab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     color: #FFFFFF;
     display: block;
     line-height: 12px;
     padding: 2px 3px 2px 0;
 }
 .block_menu li.on a {
-    background: url("http://img3.douban.com/f/book/c11786f46f5303e6c9a5c7c73df163e8b7f1c9c8/pics/green_tab.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+    background: url("../imagess/green_tab.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
     display: block;
     float: left;
     padding: 0 0 0 3px;
 }
 .block_menu li.on a span {
-    background: url("http://img3.douban.com/f/book/c11786f46f5303e6c9a5c7c73df163e8b7f1c9c8/pics/green_tab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/green_tab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     color: #FFFFFF;
     display: block;
     line-height: 12px;
@@ -4089,7 +4089,7 @@ fieldset.floatdiv {
     width: 107px;
 }
 .block_review .content li .album_s {
-    background: url("http://img3.douban.com/f/book/406275aa47a57aa4e41aeec5169f347822e8c96c/pics/albumback_city_s.gif") no-repeat scroll 1px 1px rgba(0, 0, 0, 0);
+    background: url("../images/albumback_city_s.gif") no-repeat scroll 1px 1px rgba(0, 0, 0, 0);
     height: 87px;
     padding: 5px 8px 8px 5px;
     width: 87px;
@@ -4198,7 +4198,7 @@ h2.green_tab a span {
     font-family: Arial,Helvetica,sans-serif;
 }
 h2.green_tab a.on, h2.green_tab a.on span, .sort_tabs a.on, .sort_tabs a.on span {
-    background: url("http://img3.douban.com/f/book/c11786f46f5303e6c9a5c7c73df163e8b7f1c9c8/pics/green_tab.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/green_tab.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #FFFFFF;
     display: block;
 }
@@ -4220,18 +4220,18 @@ h2.green_tab a.on span, .sort_tabs a.on span {
     padding-right: 2px;
 }
 #tongcheng_tab span {
-    background: url("http://img3.douban.com/f/book/479b9d6dcc35cd548d9cd1a2d826f23213f5868c/pics/icon/tongcheng_tab_down.gif") no-repeat scroll 27px 2px rgba(0, 0, 0, 0);
+    background: url("../images/tongcheng_tab_down.gif") no-repeat scroll 27px 2px rgba(0, 0, 0, 0);
     padding: 2px 10px 2px 2px;
 }
 #tongcheng_tab:hover span {
-    background: url("http://img3.douban.com/f/book/479b9d6dcc35cd548d9cd1a2d826f23213f5868c/pics/icon/tongcheng_tab_down.gif") no-repeat scroll 27px -10px rgba(0, 0, 0, 0);
+    background: url("../images/tongcheng_tab_down.gif") no-repeat scroll 27px -10px rgba(0, 0, 0, 0);
 }
 #tongcheng_tab span.up {
-    background: url("http://img3.douban.com/f/book/0badd8bb59652acb2f2823388150bdf1c02502f8/pics/icon/tongcheng_tab_up.gif") no-repeat scroll 27px 2px rgba(0, 0, 0, 0);
+    background: url("../images/tongcheng_tab_up.gif") no-repeat scroll 27px 2px rgba(0, 0, 0, 0);
     padding: 2px 10px 2px 2px;
 }
 #tongcheng_tab:hover span.up {
-    background: url("http://img3.douban.com/f/book/0badd8bb59652acb2f2823388150bdf1c02502f8/pics/icon/tongcheng_tab_up.gif") no-repeat scroll 27px -10px rgba(0, 0, 0, 0);
+    background: url("../images/tongcheng_tab_up.gif") no-repeat scroll 27px -10px rgba(0, 0, 0, 0);
 }
 .block_search1 {
     border: 1px solid #F7EBDD;
@@ -4239,7 +4239,7 @@ h2.green_tab a.on span, .sort_tabs a.on span {
     position: relative;
 }
 .block_search1 .block_top em, .block_search1 .block_top b, .block_search1 .block_bottom em, .block_search1 .block_bottom b {
-    background: url("http://img3.douban.com/f/book/2d43bceedeeb2810b8fb6f61de0b418b7ac98bee/pics/search_conner.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/search_conner.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     height: 4px;
     overflow: hidden;
@@ -4278,14 +4278,14 @@ h2.green_tab a.on span, .sort_tabs a.on span {
     padding: 3px 10px 2px;
 }
 .block_search1 ul.title li.on {
-    background: url("http://img3.douban.com/f/book/79729f7ed4018d6c7545c866789c658aa85314c5/pics/wztab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/wztab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     bottom: -1px;
     display: block;
     padding: 0 10px 0 0;
     position: relative;
 }
 .block_search1 ul.title li.on span {
-    background: url("http://img3.douban.com/f/book/79729f7ed4018d6c7545c866789c658aa85314c5/pics/wztab.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+    background: url("../images/wztab.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
     display: block;
     padding: 3px 0 2px 10px;
 }
@@ -4371,7 +4371,7 @@ table.olt thead th {
     position: relative;
 }
 .movie_headerline .left_conner em, .movie_headerline .left_conner b, .movie_headerline .first em, .movie_headerline .last em {
-    background: url("http://img3.douban.com/f/book/881629e1f78a0a40fd27ca46e63f76f9edc3ff89/pics/movie_headerline.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/movie_headerline.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 3px;
     position: absolute;
     width: 3px;
@@ -4453,7 +4453,7 @@ table.olt thead th {
     display: none;
 }
 .movie_headerline ul.menu li .on .arrow {
-    background: url("http://img3.douban.com/f/book/ff55871398e92d0ccf5eec316b6ce4cb36ba1bfe/pics/movie_headerline_arrow.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/movie_headerline_arrow.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     height: 13px;
     left: -11px;
@@ -4686,7 +4686,7 @@ table.olt thead th {
     float: right;
 }
 .movie_top ul li div.up, .movie_top ul li div.down, .movie_top ul li div.stay {
-    background: url("http://img3.douban.com/f/book/fbb389d8a17f5185561ca14e81b6279495abd3a8/pics/movie_top.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/movie_top.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #999999;
     display: block;
     float: right;
@@ -4707,7 +4707,7 @@ table.olt thead th {
     color: #999999;
 }
 .bigstar50, .bigstar45, .bigstar40, .bigstar35, .bigstar30, .bigstar25, .bigstar20, .bigstar15, .bigstar10, .bigstar05, .bigstar00 {
-    background: url("http://img3.douban.com/f/book/e60f0c9a8f60fec48a229ae9e93aea63485b2e70/pics/all_bigstars.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/all_bigstars.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #999999;
     display: block;
     font-size: 14px;
@@ -4929,12 +4929,12 @@ table.olt thead th {
     padding: 2px 0;
 }
 .rating_list li.on a {
-    background: url("http://img3.douban.com/f/book/c11786f46f5303e6c9a5c7c73df163e8b7f1c9c8/pics/green_tab.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
+    background: url("../images/green_tab.gif") no-repeat scroll left top rgba(0, 0, 0, 0);
     display: inline-block;
     padding: 0 0 0 3px;
 }
 .rating_list li.on a span {
-    background: url("http://img3.douban.com/f/book/c11786f46f5303e6c9a5c7c73df163e8b7f1c9c8/pics/green_tab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/green_tab.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     color: #FFFFFF;
     display: block;
     line-height: 12px;
@@ -5205,7 +5205,7 @@ p.gact {
     margin-top: 40px;
 }
 #common .prev a {
-    background: url("http://img3.douban.com/f/book/985dd3a77d7dd1467f5769dcc10c652930039a02/pics/left_right.gif") no-repeat scroll -6px -7px rgba(0, 0, 0, 0);
+    background: url("../images/left_right.gif") no-repeat scroll -6px -7px rgba(0, 0, 0, 0);
     display: block;
     height: 18px;
     text-indent: -9999px;
@@ -5215,11 +5215,11 @@ p.gact {
     outline: 0 none;
 }
 #common .prev .dis {
-    background: url("http://img3.douban.com/f/book/985dd3a77d7dd1467f5769dcc10c652930039a02/pics/left_right.gif") no-repeat scroll -6px -40px rgba(0, 0, 0, 0);
+    background: url("../images/left_right.gif") no-repeat scroll -6px -40px rgba(0, 0, 0, 0);
     cursor: default;
 }
 #common .next a {
-    background: url("http://img3.douban.com/f/book/985dd3a77d7dd1467f5769dcc10c652930039a02/pics/left_right.gif") no-repeat scroll -34px -7px rgba(0, 0, 0, 0);
+    background: url("../images/left_right.gif") no-repeat scroll -34px -7px rgba(0, 0, 0, 0);
     display: block;
     height: 18px;
     text-indent: -9999px;
@@ -5229,7 +5229,7 @@ p.gact {
     outline: 0 none;
 }
 #common .next .dis {
-    background: url("http://img3.douban.com/f/book/985dd3a77d7dd1467f5769dcc10c652930039a02/pics/left_right.gif") no-repeat scroll -34px -40px rgba(0, 0, 0, 0);
+    background: url("../images/left_right.gif") no-repeat scroll -34px -40px rgba(0, 0, 0, 0);
     cursor: default;
 }
 #common div {
@@ -5560,7 +5560,7 @@ ol.policy li {
     background: none repeat scroll 0 0 #003399;
 }
 a.btn-red, a.btn-green, a.btn-brown {
-    background: url("http://img3.douban.com/f/book/82de3e5d3e4e06ed94337edace0da3d39b069d2b/pics/btn-red.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/btn-red.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
     display: block;
     height: 16px;
     line-height: 16px;
@@ -5568,23 +5568,23 @@ a.btn-red, a.btn-green, a.btn-brown {
     width: 30px;
 }
 a.btn-green {
-    background: url("http://img3.douban.com/f/book/4ccbbe0f627af598b063ed5a15c40efb2ce2113a/pics/btn-green.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/btn-green.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
 }
 a.btn-brown {
-    background: url("http://img3.douban.com/f/book/8aa06d4ca882c90bb98e15da0fcb7587cd16e6cb/pics/btn-brown.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
+    background: url("../images/btn-brown.gif") no-repeat scroll right top rgba(0, 0, 0, 0);
 }
 a.btn-red span, a.btn-green span, a.btn-brown span {
-    background: url("http://img3.douban.com/f/book/82de3e5d3e4e06ed94337edace0da3d39b069d2b/pics/btn-red.gif") no-repeat scroll 0 0 #FFFFFF;
+    background: url("../images/btn-red.gif") no-repeat scroll 0 0 #FFFFFF;
     color: #A49099;
     display: block;
     padding-left: 5px;
 }
 a.btn-green span {
-    background: url("http://img3.douban.com/f/book/4ccbbe0f627af598b063ed5a15c40efb2ce2113a/pics/btn-green.gif") no-repeat scroll 0 0 #FFFFFF;
+    background: url("../images/btn-green.gif") no-repeat scroll 0 0 #FFFFFF;
     color: #6CA767;
 }
 a.btn-brown span {
-    background: url("http://img3.douban.com/f/book/8aa06d4ca882c90bb98e15da0fcb7587cd16e6cb/pics/btn-brown.gif") no-repeat scroll 0 0 #FFFFFF;
+    background: url("../images/btn-brown.gif") no-repeat scroll 0 0 #FFFFFF;
     color: #977C87;
 }
 .review-note {
@@ -5617,14 +5617,14 @@ a.btn-brown span {
     width: 42px;
 }
 a.btn-useful:link, a.btn-useful:visited, a.btn-useful:hover, a.btn-useful:active {
-    background: url("http://img3.douban.com/f/book/fec05340d3645bd632ab8b62eb690a1af1112fc7/pics/bg_rev.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/bg_rev.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #333333;
 }
 a.btn-useful:hover, a.btn-useful:active {
     background-position: 0 -22px;
 }
 a.btn-unuseful:link, a.btn-unuseful:visited, a.btn-unuseful:hover, a.btn-unuseful:active {
-    background: url("http://img3.douban.com/f/book/fec05340d3645bd632ab8b62eb690a1af1112fc7/pics/bg_rev.png") no-repeat scroll -42px 0 rgba(0, 0, 0, 0);
+    background: url("../images/bg_rev.png") no-repeat scroll -42px 0 rgba(0, 0, 0, 0);
     color: #333333;
 }
 a.btn-unuseful:hover, a.btn-unuseful:active {
@@ -5963,7 +5963,7 @@ ul.switch-dot {
     margin-top: 6px;
 }
 ul.switch-dot li {
-    background: url("http://img3.douban.com/f/book/5f9e1c1056b7db35dffcaf72e9c06cf70d2a8b84/pics/switch_dot_small.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/switch_dot_small.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     cursor: pointer;
     display: inline;
     float: left;
@@ -6112,7 +6112,7 @@ ul.switch-dot li {
     display: none;
 }
 .arrow-left {
-    background: url("http://img3.douban.com/f/book/0c7aaee283143e4913cd29511dba37ffbca46ddd/pics/arrow_gray.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/arrow_gray.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 9px;
     left: 0;
     margin-left: -6px;
@@ -6121,7 +6121,7 @@ ul.switch-dot li {
     width: 6px;
 }
 .arrow-right {
-    background: url("http://img3.douban.com/f/book/0c7aaee283143e4913cd29511dba37ffbca46ddd/pics/arrow_gray.gif") no-repeat scroll -6px 0 rgba(0, 0, 0, 0);
+    background: url("../images/arrow_gray.gif") no-repeat scroll -6px 0 rgba(0, 0, 0, 0);
     height: 9px;
     left: 326px;
     position: absolute;
@@ -6202,7 +6202,7 @@ ul.switch-dot li {
     margin-bottom: 0;
 }
 .green-num-box {
-    background: url("http://img3.douban.com/f/book/488c1a1e8562bc1c1baf7cf33074f094a97bb983/pics/chart_top.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/chart_top.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #008000;
     font-size: 10px;
     height: 15px;
@@ -6212,7 +6212,7 @@ ul.switch-dot li {
     width: 15px;
 }
 .arrow-up, .arrow-stay, .arrow-down {
-    background: url("http://img3.douban.com/f/book/816c0b9c9a74c937c4bb4310994ea65c07696d43/pics/arrow-trend.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/arrow-trend.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #999999;
     font-size: 12px;
     height: 15px;
@@ -6259,7 +6259,7 @@ ul.switch-dot li {
     left: 590px;
 }
 .btn-prev a, .btn-prev a:active, .btn-prev a:hover, .btn-next a, .btn-next a:active, .btn-next a:hover {
-    background: url("http://img3.douban.com/f/book/985dd3a77d7dd1467f5769dcc10c652930039a02/pics/left_right.gif") no-repeat scroll -6px -7px rgba(0, 0, 0, 0);
+    background: url("../images/left_right.gif") no-repeat scroll -6px -7px rgba(0, 0, 0, 0);
     display: block;
     height: 18px;
     text-indent: -9999px;
@@ -6269,7 +6269,7 @@ ul.switch-dot li {
     outline: 0 none;
 }
 .btn-prev a.dis, .btn-prev a.dis:link, .btn-prev a.dis:visited, .btn-prev a.dis:hover, .btn-prev a.dis:active, .btn-next a.dis, .btn-next a.dis:link, .btn-next a.dis:visited, .btn-next a.dis:hover, .btn-next a.dis:active {
-    background: url("http://img3.douban.com/f/book/985dd3a77d7dd1467f5769dcc10c652930039a02/pics/left_right.gif") no-repeat scroll -6px -40px rgba(0, 0, 0, 0);
+    background: url("../images/left_right.gif") no-repeat scroll -6px -40px rgba(0, 0, 0, 0);
     cursor: default;
 }
 .btn-next a, .btn-next a:active, .btn-next a:hover {
@@ -6519,7 +6519,7 @@ ul.switch-dot li {
     margin: 0 5px 0 10px;
 }
 .tags-del {
-    background: url("http://img3.douban.com/f/book/a59f00df704ec3227c8caa50a611267bae4ee8d6/pics/del.png") no-repeat scroll 0 -11px rgba(0, 0, 0, 0);
+    background: url("../images/del.png") no-repeat scroll 0 -11px rgba(0, 0, 0, 0);
     cursor: pointer;
     display: inline-block;
     height: 12px;
@@ -6546,7 +6546,7 @@ ul.switch-dot li {
     display: inline-block;
 }
 .bn-create span, .bn-post span {
-    background: url("http://img3.douban.com/f/book/2d79ca6cbe2477a2907bd2f1c0610e76e8b8fa5f/pics/post.gif") no-repeat scroll 100% 0 rgba(0, 0, 0, 0);
+    background: url("../images/post.gif") no-repeat scroll 100% 0 rgba(0, 0, 0, 0);
     color: #333333;
     cursor: pointer;
     font-size: 12px;
@@ -6554,7 +6554,7 @@ ul.switch-dot li {
     padding: 0 8px 0 5px;
 }
 a.bn-create, a.bn-post {
-    background: url("http://img3.douban.com/f/book/2d79ca6cbe2477a2907bd2f1c0610e76e8b8fa5f/pics/post.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/post.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #9E9E9E;
     padding-left: 17px;
 }
@@ -6704,7 +6704,7 @@ a.bn-create, a.bn-post {
     width: 14px;
 }
 .loading {
-    background: url("http://img3.douban.com/f/book/bda8c5b2e6d3b359384cf55bc49ab2654e413046/pics/spinner.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/spinner.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     float: right;
     height: 14px;
@@ -6783,13 +6783,13 @@ a.bn-create, a.bn-post {
     padding: 0 2px;
 }
 .filter-list .current a {
-    background: url("http://img3.douban.com/f/book/c11786f46f5303e6c9a5c7c73df163e8b7f1c9c8/pics/green_tab.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/green_tab.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #FFFFFF;
     line-height: 18px;
     padding: 0 0 0 8px;
 }
 .filter-list .current span {
-    background: url("http://img3.douban.com/f/book/c11786f46f5303e6c9a5c7c73df163e8b7f1c9c8/pics/green_tab.gif") no-repeat scroll 100% 0 rgba(0, 0, 0, 0);
+    background: url("../images/green_tab.gif") no-repeat scroll 100% 0 rgba(0, 0, 0, 0);
     display: block;
     line-height: 12px;
     padding: 2px 8px 2px 0;
@@ -6809,7 +6809,7 @@ a.bn-create, a.bn-post {
     padding: 0 0 0 10px;
 }
 .magnifier {
-    background: url("http://img3.douban.com/f/book/5a47a15f4dc81221ea809b7590854f556625ec2b/pics/magnifier.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    background: url("../images/magnifier.png") no-repeat scroll left center rgba(0, 0, 0, 0);
     padding: 0 0 0 15px;
 }
 .photo-show {
@@ -6829,7 +6829,7 @@ a.bn-create, a.bn-post {
     float: right;
 }
 .rec-btn, .rec-btn:hover {
-    background: url("http://img3.douban.com/f/book/8f70c1054607a044c7b4b6e2b37ad0f31a290db9/pics/recommend.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/recommend.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     height: 18px;
     line-height: 10em;
@@ -6920,17 +6920,17 @@ a.bn-create, a.bn-post {
     padding-left: 50px;
 }
 .upload-step .step1 {
-    background: url("http://img3.douban.com/f/book/ab51a97f5bde90b74db628c1259cab060d649386/pics/step_num.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/step_num.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 .upload-step .step1-current {
-    background: url("http://img3.douban.com/f/book/ab51a97f5bde90b74db628c1259cab060d649386/pics/step_num.png") no-repeat scroll 0 -27px rgba(0, 0, 0, 0);
+    background: url("../images/step_num.png") no-repeat scroll 0 -27px rgba(0, 0, 0, 0);
     color: #111111;
 }
 .upload-step .step2 {
-    background: url("http://img3.douban.com/f/book/ab51a97f5bde90b74db628c1259cab060d649386/pics/step_num.png") no-repeat scroll 0 -54px rgba(0, 0, 0, 0);
+    background: url("../images/step_num.png") no-repeat scroll 0 -54px rgba(0, 0, 0, 0);
 }
 .upload-step .step2-current {
-    background: url("http://img3.douban.com/f/book/ab51a97f5bde90b74db628c1259cab060d649386/pics/step_num.png") no-repeat scroll 0 -81px rgba(0, 0, 0, 0);
+    background: url("../images/step_num.png") no-repeat scroll 0 -81px rgba(0, 0, 0, 0);
     color: #111111;
 }
 .upload-area {
@@ -6963,7 +6963,7 @@ a.bn-create, a.bn-post {
     display: none;
 }
 .poster-loader {
-    background: url("http://img3.douban.com/f/book/bda8c5b2e6d3b359384cf55bc49ab2654e413046/pics/spinner.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/spinner.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     height: 14px;
     margin: 0 0 0 20px;
@@ -7032,13 +7032,13 @@ a.bn-create, a.bn-post {
     width: 71px;
 }
 .bn-follow, .bn-follow:hover {
-    background: url("http://img3.douban.com/f/book/2ac3e6c81f2557c8077874ff446e927e1d37257f/pics/add_contact1.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/add_contact1.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 .bn-mail, .bn-mail:hover {
-    background: url("http://img3.douban.com/f/book/d46aab63b60b66a670f71e1aae755258c947894f/pics/send_doumail.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/send_doumail.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 .bn-friend, .bn-friend:hover {
-    background: url("http://img3.douban.com/f/book/c66ea3cc81f89f9063cd39553ef0e74196a9d9d9/pics/add_friend1.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/add_friend1.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 .bn-follow:focus, .bn-friend:focus, .bn-mail:focus {
     outline: 0 none;
@@ -7093,7 +7093,7 @@ a.a-lnk:hover, a.a-lnk:active {
     color: #3377AA;
 }
 .icon-play {
-    background: url("http://img3.douban.com/f/book/b8d0a75490599fb542136854b874918446ef98c1/pics/playicon.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/playicon.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 .col5 li {
     border-bottom: 1px solid #DDDDDD;
@@ -7219,17 +7219,17 @@ a.a-lnk:hover, a.a-lnk:active {
     padding: 0 10px;
 }
 .a-btn-add:link, .a-btn-add:active, .a-btn-add:hover, .a-btn-add:visited {
-    background: url("http://img3.douban.com/f/book/ae0eda49bbe883198606693d0bf38012daeaff86/pics/icon-add.png") no-repeat scroll 63px center #FFE6CE;
+    background: url("../images/icon-add.png") no-repeat scroll 63px center #FFE6CE;
     border: 1px solid #D6B79D;
     color: #584E46;
     padding: 0 22px 0 10px;
 }
 .a-btn-opt:link, .a-btn-opt:active, .a-btn-opt:hover, .a-btn-opt:visited {
-    background: url("http://img3.douban.com/f/book/c1caf2e50822ff9fe1d3d734a7ba1621c2441649/pics/icon-arrow-down.png") no-repeat scroll 38px center #FFF3E7;
+    background: url("../images/icon-arrow-down.png") no-repeat scroll 38px center #FFF3E7;
     padding: 0 18px 0 10px;
 }
 .a-btn-add-light:link, .a-btn-add-light:active, .a-btn-add-light:hover, .a-btn-add-light:visited {
-    background: url("http://img3.douban.com/f/book/ae0eda49bbe883198606693d0bf38012daeaff86/pics/icon-add.png") no-repeat scroll 10px center #FDF9F5;
+    background: url("../images/icon-add.png") no-repeat scroll 10px center #FDF9F5;
     border: 1px solid #F1E5DC;
     color: #625850;
     padding: 0 10px 0 23px;
@@ -7252,7 +7252,7 @@ a.a-lnk:hover, a.a-lnk:active {
     margin: 0 0 10px;
 }
 .user-group-arrow {
-    background: url("http://img3.douban.com/f/book/0d8719b551a21d7d9c4defeba5259d83b0f5e801/pics/icon-arrow-down-b.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    background: url("../images/icon-arrow-down-b.png") no-repeat scroll center center rgba(0, 0, 0, 0);
     border: 1px solid #FFFFFF;
     cursor: pointer;
     display: inline-block;
@@ -7305,7 +7305,7 @@ a.a-lnk:hover, a.a-lnk:active {
     margin: 2px 0 0;
 }
 .set-group-list .create-new {
-    background: url("http://img3.douban.com/f/book/ae0eda49bbe883198606693d0bf38012daeaff86/pics/icon-add.png") no-repeat scroll 0 center rgba(0, 0, 0, 0);
+    background: url("../images/icon-add.png") no-repeat scroll 0 center rgba(0, 0, 0, 0);
     color: #333333;
     display: block;
     padding: 0 0 0 13px;
@@ -7359,7 +7359,7 @@ a.a-lnk:hover, a.a-lnk:active {
     margin: 0 0 0 15px;
 }
 .user-cs {
-    background: url("http://img3.douban.com/f/book/deb4cac1239eeff89863046cb2d5a257c310ba94/pics/icon-ok.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    background: url("../images/icon-ok.png") no-repeat scroll left center rgba(0, 0, 0, 0);
     display: inline-block;
     padding: 0 0 0 15px;
 }
@@ -7460,7 +7460,7 @@ a.a-lnk:hover, a.a-lnk:active {
     width: 242px;
 }
 .user-list .user-cs {
-    background: url("http://img3.douban.com/f/book/deb4cac1239eeff89863046cb2d5a257c310ba94/pics/icon-ok.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    background: url("../images/icon-ok.png") no-repeat scroll left center rgba(0, 0, 0, 0);
     display: inline-block;
     float: right;
     font-size: 12px;
@@ -7484,7 +7484,7 @@ a.a-lnk:hover, a.a-lnk:active {
     width: 320px;
 }
 .custom-popwin h1 {
-    background: url("http://img3.douban.com/f/book/90a06554de8039edf680e26020cb165143ae00ad/pics/icon-ok-b.png") no-repeat scroll 15px center #EBF5EB;
+    background: url("../images/icon-ok-b.png") no-repeat scroll 15px center #EBF5EB;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
     color: #038013;
@@ -7610,13 +7610,13 @@ a.lnk-flat:active {
 }
 @media not all, not all {
 .lnk-flat, .bn-flat input {
-    background: url("http://img3.douban.com/f/book/05e11739c2d942b85cfa521685bfb9ca028c9e42/pics/site/sp_all_2.png") repeat-x scroll 0 -700px rgba(0, 0, 0, 0);
+    background: url("../images/sp_all_2.png") repeat-x scroll 0 -700px rgba(0, 0, 0, 0);
 }
 a.lnk-flat:hover, a.lnk-flat:active, .bn-flat input:hover, .bn-flat-over input {
     background-position: 1px 706px;
 }
 a.lnk-flat:link, a.lnk-flat:visited {
-    background: url("http://img3.douban.com/f/book/05e11739c2d942b85cfa521685bfb9ca028c9e42/pics/site/sp_all_2.png") repeat-x scroll 0 -641px rgba(0, 0, 0, 0);
+    background: url("../images/sp_all_2.png") repeat-x scroll 0 -641px rgba(0, 0, 0, 0);
 }
 a.lnk-flat:hover {
     background-position: 0 -701px;
@@ -7695,7 +7695,7 @@ a.bn-small:link, a.bn-small:visited, a.bn-small:hover, a.bn-small:active {
     width: auto;
 }
 .icon-edit {
-    background: url("http://img3.douban.com/f/book/0d56e141b25024b230e3361e98a10aec8084f93d/pics/icon-edit.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/icon-edit.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     height: 9px;
     position: relative;
@@ -7760,7 +7760,7 @@ a.bn-small:link, a.bn-small:visited, a.bn-small:hover, a.bn-small:active {
     width: 515px;
 }
 .bn-std1, a.bn-std1:hover, .bn-std1 span {
-    background: url("http://img3.douban.com/f/book/e71bc59418cbce13979283ccd3b7ccf62116f2dd/pics/bg_bn_red.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/bg_bn_red.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     height: 20px;
     overflow: hidden;
@@ -7800,7 +7800,7 @@ a.bn-small:link, a.bn-small:visited, a.bn-small:hover, a.bn-small:active {
     vertical-align: bottom;
 }
 .mod .opt .vv {
-    background: url("http://img3.douban.com/f/book/de93f496c38851747139e4008b63bfc680d4bb3e/pics/v.gif") no-repeat scroll 0 3px rgba(0, 0, 0, 0);
+    background: url("../images/v.gif") no-repeat scroll 0 3px rgba(0, 0, 0, 0);
     margin-right: 3px;
 }
 .bn-add span, .bn-add, .bn-hot span, .bn-hot, .bn-std span, .bn-std {
@@ -7819,7 +7819,7 @@ a.bn-small:link, a.bn-small:visited, a.bn-small:hover, a.bn-small:active {
     display: inline-block;
 }
 .bn-add span, .bn-hot span, .bn-std span {
-    background: url("http://img3.douban.com/f/book/aadb298bc1dce8d8abc12fa968635517c73710b0/pics/core.png") no-repeat scroll 100% 0 rgba(0, 0, 0, 0);
+    background: url("../images/core.png") no-repeat scroll 100% 0 rgba(0, 0, 0, 0);
     cursor: pointer;
     font-size: 12px;
     line-height: 23px;
@@ -7834,15 +7834,15 @@ a.bn-small:link, a.bn-small:visited, a.bn-small:hover, a.bn-small:active {
     padding-right: 15px;
 }
 a.bn-std:link, a.bn-std:visited, a.bn-std:hover, a.bn-std:active {
-    background: url("http://img3.douban.com/f/book/aadb298bc1dce8d8abc12fa968635517c73710b0/pics/core.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/core.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     color: #000000;
 }
 a.bn-hot:link, a.bn-hot:visited, a.bn-hot:hover, a.bn-hot:active {
-    background: url("http://img3.douban.com/f/book/aadb298bc1dce8d8abc12fa968635517c73710b0/pics/core.png") no-repeat scroll 0 -23px rgba(0, 0, 0, 0);
+    background: url("../images/core.png") no-repeat scroll 0 -23px rgba(0, 0, 0, 0);
     color: #EB928C;
 }
 a.bn-add:link, a.bn-add:visited, a.bn-add:hover, a.bn-add:active {
-    background: url("http://img3.douban.com/f/book/aadb298bc1dce8d8abc12fa968635517c73710b0/pics/core.png") no-repeat scroll 0 -71px rgba(0, 0, 0, 0);
+    background: url("../images/core.png") no-repeat scroll 0 -71px rgba(0, 0, 0, 0);
     color: #9E9E9E;
     padding-left: 25px;
 }
@@ -7859,7 +7859,7 @@ a.bn-hot:hover span, a.bn-hot:active span {
     margin-right: 4px;
 }
 .infobox .ex2, .infobox .ex1 {
-    background: url("http://img3.douban.com/f/book/d34a20ecb390bc03ef09f45bda5b454077edc61b/pics/info_bg.png") no-repeat scroll 100% 0 rgba(0, 0, 0, 0);
+    background: url("../images/info_bg.png") no-repeat scroll 100% 0 rgba(0, 0, 0, 0);
     clear: both;
     font-size: 0;
     height: 5px;
@@ -7867,7 +7867,7 @@ a.bn-hot:hover span, a.bn-hot:active span {
     margin-left: 5px;
 }
 .infobox .ex2 span, .infobox .ex1 span {
-    background: url("http://img3.douban.com/f/book/d34a20ecb390bc03ef09f45bda5b454077edc61b/pics/info_bg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/info_bg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     height: 5px;
     margin-left: -5px;
@@ -8012,7 +8012,7 @@ a.bn-hot:hover span, a.bn-hot:active span {
     margin-bottom: 20px;
 }
 .donated-success {
-    background: url("http://img3.douban.com/f/book/0bd7d28f183f77a8487d575aad15289611ef39a0/pics/ic_dz.png") no-repeat scroll 0 50% rgba(0, 0, 0, 0);
+    background: url("../images/ic_dz.png") no-repeat scroll 0 50% rgba(0, 0, 0, 0);
     color: #5A7E59;
     padding-left: 12px;
 }
@@ -8045,10 +8045,10 @@ a.btn-fav:hover, a.btn-fav:active {
     color: #99776B;
 }
 .fav-add, .fav-add:link, .fav-add:hover {
-    background: url("http://img3.douban.com/f/book/f392cc86b542687ce4011dd495ee9522dfe81d93/pics/ic_like.png") no-repeat scroll 8px 3px rgba(0, 0, 0, 0);
+    background: url("../images/ic_like.png") no-repeat scroll 8px 3px rgba(0, 0, 0, 0);
 }
 .fav-cancel, .fav-cancel:link, .fav-cancel:hover {
-    background: url("http://img3.douban.com/f/book/f392cc86b542687ce4011dd495ee9522dfe81d93/pics/ic_like.png") no-repeat scroll 8px -17px rgba(0, 0, 0, 0);
+    background: url("../images/ic_like.png") no-repeat scroll 8px -17px rgba(0, 0, 0, 0);
 }
 .fav-num {
     color: #666666;
@@ -8085,7 +8085,7 @@ a.btn-fav:hover, a.btn-fav:active {
     text-align: right;
 }
 .fav-userlist .arrow {
-    background: url("http://img3.douban.com/f/book/ae3434cf24244949954c28b02e10612063bd7f65/pics/bg_popup_arr.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/bg_popup_arr.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 7px;
     left: 12px;
     overflow: hidden;
@@ -8094,7 +8094,7 @@ a.btn-fav:hover, a.btn-fav:active {
     width: 12px;
 }
 .arrow-bottom .arrow {
-    background: url("http://img3.douban.com/f/book/ae3434cf24244949954c28b02e10612063bd7f65/pics/bg_popup_arr.png") no-repeat scroll 0 -11px rgba(0, 0, 0, 0);
+    background: url("../images/bg_popup_arr.png") no-repeat scroll 0 -11px rgba(0, 0, 0, 0);
     bottom: -6px;
     top: auto;
 }
@@ -8242,7 +8242,7 @@ a.create-new-album:hover {
     vertical-align: text-bottom;
 }
 .sina_logo {
-    background: url("http://img3.douban.com/f/book/3a38704cc777f22cb17640ecabd6be4966c40e9b/pics/sina_fav1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/sina_fav1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 16px;
     width: 17px;
 }
@@ -8251,14 +8251,14 @@ a.create-new-album:hover {
     margin: 0;
 }
 .android_app {
-    background: url("http://img3.douban.com/f/book/8928444d73f1463ca35b40e592117363e83ed20b/pics/book/pic34.jpg") no-repeat scroll right 0 rgba(0, 0, 0, 0);
+    background: url("../images/pic34.jpg") no-repeat scroll right 0 rgba(0, 0, 0, 0);
     border-bottom: 1px dashed #DDDDDD;
     height: 450px;
     margin-bottom: 20px;
     width: 100%;
 }
 #header .booklogo {
-    background: url("http://img3.douban.com/f/book/5b831d51c910588b00b3ef6de2a7827eb72b95f7/pics/nav/lg_book_a7.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/lg_book_a7.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     float: left;
     height: 62px;
@@ -8266,13 +8266,13 @@ a.create-new-album:hover {
     width: 142px;
 }
 .book_qrcode {
-    background: url("http://img3.douban.com/f/book/a86a2bf11e7bd85bdbde698d0ee28387ec8732a0/pics/book/cart_api.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/cart_api.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     float: right;
     height: 135px;
     width: 135px;
 }
 .android {
-    background-image: url("http://img3.douban.com/f/book/d8cfd139ffd4e3dd0ff63c227d7b6e09e9e48126/pics/book/sup.jpg");
+    background-image: url("../images/sup.jpg");
     background-repeat: no-repeat;
     height: 10px;
     left: 150px;
@@ -8351,7 +8351,7 @@ div.comment-item {
     background-position: 0 -63px;
 }
 .bigstar50, .bigstar45, .bigstar40, .bigstar35, .bigstar30, .bigstar25, .bigstar20, .bigstar15, .bigstar10, .bigstar05, .bigstar00 {
-    background: url("http://img3.douban.com/f/book/86fa85a1fe1a9cf55b804c871cc7a79a73f6bf73/pics/movie/bigstars.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/bigstars.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     height: 14px;
     margin: 1px 0 0;
@@ -8392,7 +8392,7 @@ div.comment-item {
     background-position: 0 -140px;
 }
 .allstar50, .allstar50, .allstar45, .allstar40, .allstar35, .allstar30, .allstar25, .allstar20, .allstar15, .allstar10, .allstar05 {
-    background: url("http://img3.douban.com/f/book/5cb30ab98d8deb43ff321ef2c64493cbd2d6c057/pics/movie/midstars.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/midstars.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     height: 11px;
     margin: 0 3px 0 0;
@@ -8430,7 +8430,7 @@ div.comment-item {
     background-position: 0 -99px;
 }
 .starstop, .stars {
-    background: url("http://img3.douban.com/f/book/ef82a60983df6252e9a43fd8d051347e89aa6753/pics/movie/smlstars.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/smlstars.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: inline-block;
     height: 9px;
     margin: 3px 3px 0 0;
@@ -8614,7 +8614,7 @@ div.comment-item {
     top: 35px;
 }
 #db-usr-profile p.att {
-    background: url("http://img3.douban.com/f/book/3611ec626fed94c0db6f13472c8171d5a76daca3/pics/allright-small.gif") no-repeat scroll left center rgba(0, 0, 0, 0);
+    background: url("../images/allright-small.gif") no-repeat scroll left center rgba(0, 0, 0, 0);
     left: 640px;
     margin: 0;
     padding-left: 20px;
@@ -8656,7 +8656,7 @@ h2 {
 .nav-secondary .nav-with-media {
 }
 .nav-secondary .book-cart {
-    background-image: url("http://img3.douban.com/f/book/b31d9c8cc8f22b35cebdacb8ab8fac5a5b74bb30/pics/book/icon-cart.png");
+    background-image: url("../images/icon-cart.png");
     background-position: left center;
     background-repeat: no-repeat;
     padding-left: 26px;
@@ -8664,7 +8664,7 @@ h2 {
     position: relative;
 }
 .nav-secondary .book-cart-arrival {
-    background: url("http://img3.douban.com/f/book/8792d0a92015d9c6c940c94d8cd259b21a2ce900/pics/icon/cart_coupon_status.gif") no-repeat scroll 0 -10px rgba(0, 0, 0, 0);
+    background: url("../images/cart_coupon_status.gif") no-repeat scroll 0 -10px rgba(0, 0, 0, 0);
     height: 10px;
     position: absolute;
     right: -40px;
@@ -8703,16 +8703,16 @@ h2 {
     background-color: #FFF6ED;
 }
 .a_unfolder .bn-arrow, .note-unfolder {
-    background: url("images/review-expand.png") no-repeat scroll 0 -12px rgba(0, 0, 0, 0);
+    background: url("../images/review-expand.png") no-repeat scroll 0 -12px rgba(0, 0, 0, 0);
 }
 .a_folder .bn-arrow, .note-folder {
-    background: url("images/review-expand.png") no-repeat scroll 0 2px rgba(0, 0, 0, 0);
+    background: url("../images/review-expand.png") no-repeat scroll 0 2px rgba(0, 0, 0, 0);
 }
 a.a_unfolder:hover .bn-arrow, .note-unfolder:hover {
-    background: url("images/review-expand.png") no-repeat scroll 0 -32px rgba(0, 0, 0, 0);
+    background: url("../images/review-expand.png") no-repeat scroll 0 -32px rgba(0, 0, 0, 0);
 }
 a.a_folder:hover .bn-arrow, .note-folder:hover {
-    background: url("images/review-expand.png") no-repeat scroll 0 -63px rgba(0, 0, 0, 0);
+    background: url("../images/review-expand.png") no-repeat scroll 0 -63px rgba(0, 0, 0, 0);
 }
 .note-unfolder, .note-folder {
     display: block;
@@ -8746,7 +8746,7 @@ body #db-pay-tips {
     width: 106px;
 }
 .book-express-home .btn-prev a, .book-express-home .btn-prev a:active, .book-express-home .btn-prev a:hover, .book-express-home .btn-next a, .book-express-home .btn-next a:active, .book-express-home .btn-next a:hover {
-    background: url("http://img3.douban.com/f/book/d0673ec17ca46b39d1dc8a616b7b91349c39c01b/pics/book/arrow_in_circle.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../images/arrow_in_circle.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     display: block;
     height: 18px;
     margin: 2px 0;
@@ -8757,7 +8757,7 @@ body #db-pay-tips {
     outline: 0 none;
 }
 .book-express-home .btn-prev a.dis, .book-express-home .btn-prev a.dis:link, .book-express-home .btn-prev a.dis:visited, .book-express-home .btn-prev a.dis:hover, .book-express-home .btn-prev a.dis:active, .book-express-home .btn-next a.dis, .book-express-home .btn-next a.dis:link, .book-express-home .btn-next a.dis:visited, .book-express-home .btn-next a.dis:hover, .book-express-home .btn-next a.dis:active {
-    background: url("http://img3.douban.com/f/book/d0673ec17ca46b39d1dc8a616b7b91349c39c01b/pics/book/arrow_in_circle.png") no-repeat scroll 0 -18px rgba(0, 0, 0, 0);
+    background: url("../images/arrow_in_circle.png") no-repeat scroll 0 -18px rgba(0, 0, 0, 0);
     cursor: default;
 }
 .book-express-home .btn-next a, .book-express-home .btn-next a:active, .book-express-home .btn-next a:hover {
@@ -8770,13 +8770,13 @@ body #db-pay-tips {
     margin-top: 9px;
 }
 .book-express-home .switch-dot li {
-    background-image: url("http://img3.douban.com/f/book/ed6f41f6556d423c28d1ad79c1b269cfebc5300c/pics/book/dots.png");
+    background-image: url("../images/dots.png");
     background-position: -7px 0;
     margin-right: 6px;
     width: 6px;
 }
 .book-express-home .switch-dot li.current {
-    background-image: url("http://img3.douban.com/f/book/ed6f41f6556d423c28d1ad79c1b269cfebc5300c/pics/book/dots.png");
+    background-image: url("../images/dots.png");
     background-position: 0 0;
 }
 h2.green_tab a.on, h2.green_tab a.on span, .sort_tabs a.on, .sort_tabs a.on span {
@@ -8893,7 +8893,7 @@ h2.green_tab a.on, h2.green_tab a.on span, .sort_tabs a.on, .sort_tabs a.on span
 }
 @media not all, (min-resolution: 192dpi) {
 .nav-secondary .book-cart {
-    background-image: url("http://img3.douban.com/f/book/588bb27e3f2152efb7acb283d4d38858c9274321/pics/book/icon-cart@2x.png");
+    background-image: url("../images/icon-cart@2x.png");
     background-size: 20px 14px;
 }
 }
