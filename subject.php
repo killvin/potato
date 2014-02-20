@@ -14,6 +14,17 @@
 
 <body>
 
+
+<?php
+$page = 0;
+if(isset($_GET["page"]) && $_GET["page"] != NULL){
+	$page = $_GET["page"];
+}
+print_r($page);
+
+$nextPage = $page + 1;
+?>
+
 <div id="wrapper"> 
 	<h1>
 		<span property="v:itemreviewed"><?=$bookInfo->title?></span>
@@ -22,10 +33,14 @@
 	<div class="indent">
 		<div class="subjectwrap clearfix">
 			<div class="subject clearfix">
+				<a href="./subject.php?page=<?=$nextPage?>"> Next Page </a> | 
+				<a href="./subject.php"> Rest Page </a>
 				<div id="mainpic" class="">
 					<a class="nbg" href="images/s26393136.jpg" title="&lt;bound method Book.seo_title of &lt;Book(24536403, ), title: 代码的未来, uid: 7115317518, cat_id: 1001&gt;&gt;">
 						<img src="images/s26393136.jpg" title="点击看大图" alt="代码的未来" rel="v:photo">
 					</a>
+
+					
 				</div>
 				<div id="info" class="">
 						<span class="pl">作者: <?=$bookInfo->author?></span><br/>

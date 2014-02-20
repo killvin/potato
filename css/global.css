@@ -294,7 +294,7 @@ body #db-pay-tips {
     position: relative;
 }
 .nav .nav-logo {
-    background: url("") no-repeat scroll 0 12px rgba(0, 0, 0, 0);
+    background: url("../images/potota_logo.png") no-repeat scroll 0 12px rgba(0, 0, 0, 0);
     float: left;
     height: 56px;
     margin: 0 13px 0 0;
@@ -441,7 +441,7 @@ body #db-pay-tips {
     border-color: #E9E9E2;
 }
 #db-nav-book .nav-logo {
-    background-image: url("");
+    background-image: url("../images/potota_logo.png");
 }
 #db-nav-book a:link, #db-nav-book a:visited {
     color: #614E3C;
